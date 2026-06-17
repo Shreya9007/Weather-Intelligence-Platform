@@ -11,6 +11,11 @@ This project consists of 3 integrated modules:
 
 A comprehensive weather analytics platform that combines real-time weather data collection, automated reporting, natural language interaction, and machine learning-based rainfall prediction.
 
+## Live Demo
+
+Streamlit App:
+https://weather-intelligence-platform-5vvluappnpddpbp3wwrnb2y.streamlit.app
+
 ## Features
 
 ### Weather Analytics Dashboard
