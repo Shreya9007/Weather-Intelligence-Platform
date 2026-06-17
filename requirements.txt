@@ -1,3 +1,4 @@
+streamlit
 pandas
 numpy
 matplotlib
@@ -8,4 +9,4 @@ nltk
 reportlab
 requests
 joblib
-jupyter
+Pillow
