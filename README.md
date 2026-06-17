@@ -13,7 +13,7 @@ A comprehensive weather analytics platform that combines real-time weather data 
 
 ## Live Demo
 
-Streamlit App:
+Streamlit Deployment:
 https://weather-intelligence-platform-5vvluappnpddpbp3wwrnb2y.streamlit.app
 
 ## Features
